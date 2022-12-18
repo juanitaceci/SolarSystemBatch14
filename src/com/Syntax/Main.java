@@ -7,6 +7,6 @@ public class Main {
         Jinny.Sun=1;
         Jinny.Moon=2;
         Jinny.Planets=3;
-        
+
     }
 }

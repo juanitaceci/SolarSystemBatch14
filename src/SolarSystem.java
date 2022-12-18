@@ -1,5 +1,8 @@
 public class SolarSystem {
-    int Sun;
-    int Moon;
-    int Planets;
+    SolarSystem Jinny =new SolarSystem(){
+        int Sun;
+        int Moon;
+        int Planets;
+    };
+
 }
